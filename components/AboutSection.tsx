@@ -45,7 +45,9 @@ const AboutSection = () => {
             <div>
               <p>
                 <span className="font-bold">{"University: "}</span>
-                <span>King Mongkut's University of Technology Thonburi</span>
+                <span>
+                  King Mongkut&apos;s University of Technology Thonburi
+                </span>
               </p>
               <p>
                 <span className="font-bold">{"Degree: "}</span>

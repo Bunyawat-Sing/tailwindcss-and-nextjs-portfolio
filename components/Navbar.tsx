@@ -62,7 +62,7 @@ const Navbar = () => {
                     key={index}
                     to={item.page}
                     onClick={() => setNavbar(!navbar)}
-                    className="block lg:inline-block text-neutral-800 hover:text-neutral-500 dark:text-neutral-100"
+                    className="block lg:inline-block text-neutral-800 hover:text-neutral-500 dark:text-neutral-100 hover:cursor-pointer"
                     activeClass="active"
                     spy={true}
                     smooth={true}

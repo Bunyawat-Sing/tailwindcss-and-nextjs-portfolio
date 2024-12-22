@@ -25,7 +25,7 @@ const HeroSection = () => {
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m seeking opportunities as a{" "}
             <span className="font-semibold text-teal-600">
-              Full Stack, Frontend, or Backend Developer{" "}
+              Full-Stack, Frontend, or Backend Developer{" "}
             </span>
             to build impactful and efficient software solutions.
           </p>

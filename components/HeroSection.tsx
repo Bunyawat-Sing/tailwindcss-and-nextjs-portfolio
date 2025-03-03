@@ -90,7 +90,7 @@ const HeroSection = () => {
               href="https://www.canva.com/design/DAGXwEUsZyY/rupqNquSLnt4GsrdiJ47tg/view?utm_content=DAGXwEUsZyY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7b3b93ef2c"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
+              className="text-neutral-100 font-semibold px-7 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
             >
               Resume
             </a>
